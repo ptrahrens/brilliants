@@ -160,17 +160,17 @@ remispec:
 *Sample Test File*
 
 SYSTEMS
-Elitist_Ant_System
-TEST_PARAMETERS
-PARAMETER rho (0.1;0;0.1)
-TRIALS 10
-DISPLAY ON PHEROMONES=ON TOUR=ON
-REFRESH_RATE 1
-METRICS
-glob_best_ant_tour_length
-iter_best_ant_tour_length
-lambda_branching_factor
-WRITE_FILE /home/peter/Desktop/comparative_qa194_vartime_-+_results50 WRITE CONTINUOUS
-PROBLEM
-PROBLEM_FILE /home/peter/Desktop/qa194.tsp
-CHANGE 0 -+[50,(0;10;60),i{TIME_LIMIT!100}]
+Elitist_Ant_System<br>
+TEST_PARAMETERS<br>
+PARAMETER rho (0.1;0;0.1)<br>
+TRIALS 10<br>
+DISPLAY ON PHEROMONES=ON TOUR=ON<br>
+REFRESH_RATE 1<br>
+METRICS<br>
+glob_best_ant_tour_length<br>
+iter_best_ant_tour_length<br>
+lambda_branching_factor<br>
+WRITE_FILE /home/peter/Desktop/comparative_qa194_vartime_-+_results50 WRITE CONTINUOUS<br>
+PROBLEM<br>
+PROBLEM_FILE /home/peter/Desktop/qa194.tsp<br>
+CHANGE 0 -+[50,(0;10;60),i{TIME_LIMIT!100}]<br>
