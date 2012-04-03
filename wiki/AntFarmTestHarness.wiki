@@ -7,7 +7,7 @@ A sample is given at the bottom of the page.
 
 = Details =
 
-*AntFarm Test Harness Scripting Language*
+*Ant Farm Test Harness Scripting Language*
 
 Note int, float, string and eoln (end of line) are primitives.
 
